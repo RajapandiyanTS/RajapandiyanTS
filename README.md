@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **3rd-year ECE student** at **PSNA College of Engineering and Technology**
+- 🎓 I'm a **Final-year ECE student** at **PSNA College of Engineering and Technology**
 - 📚 CGPA: **8.91**
-- 💻 I build **Java, Spring Boot, and React** applications
+- 💻 I build **Java, Spring Boot, MySql ,and React** applications
 - 🌱 Currently exploring: **Full-Stack Development**, **APIs**, and **Clean Architecture**
 - 🌐 I enjoy learning by building real-world projects and open source
 
