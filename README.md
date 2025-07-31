@@ -1,71 +1,80 @@
-<h1 align="center">Hi 👋, I'm Rajapandiyan T S</h1>
-<h3 align="center">Passionate ECE Student | Java & React Developer | Spring Boot Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&multiline=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajapandiyan+T+S;ECE+Student+%7C+Java+%2B+Spring+Boot+Developer;React+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="mailto:rajapandiyants@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rajapandiyan-t-s-121801267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/RajapandiyanTS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/RajapandiyanTS" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://rajapandiyan.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧑‍🎓 About Me
-- 🎓 I'm currently pursuing **B.E in ECE** at **PSNA College of Engineering and Technology**  
-- 📚 CGPA: **8.91**  
-- 🌱 I'm skilled in **Java**, **React**, **Spring Boot**, and **MySQL**  
-- 💼 React Developer Intern @ DotComInfoway  
-- 🌐 I love building full-stack applications and learning new technologies
+### 👨‍💻 About Me
+
+- 🎓 I'm a **3rd-year ECE student** at **PSNA College of Engineering and Technology**
+- 📚 CGPA: **8.91**
+- 💻 I build **Java, Spring Boot, and React** applications
+- 🌱 Currently exploring: **Full-Stack Development**, **APIs**, and **Clean Architecture**
+- 🌐 I enjoy learning by building real-world projects and open source
 
 ---
 
-### 🚀 Projects
-- 📚 **Book Inventory & Management System**  
-  Java + Spring Boot + MySQL  
-  ➤ RESTful CRUD APIs using Spring Data JPA  
-  ➤ Postman tested endpoints for library record management
+### 🔨 Projects
+
+- 📘 **Book Inventory & Management System**  
+  ➤ *Java, Spring Boot, MySQL, REST API*  
+  ➤ Built RESTful backend with Spring Data JPA and tested via Postman
 
 - 🎬 **Netflix UI Clone**  
-  HTML + CSS  
-  ➤ Fully responsive front-end clone with hover effects and UI sections
+  ➤ *HTML + CSS*  
+  ➤ Pixel-perfect, responsive front-end clone with hover animations
 
-- 🧠 **AI-Based Traffic Management System** *(Ideathon)*  
-  ➤ Proposed intelligent traffic optimization using sensors and ML algorithms
+- 🚦 **AI-Powered Traffic System** *(Ideathon)*  
+  ➤ Smart traffic optimization using ML + embedded concepts
 
-- ⚡ **Wireless EV Charging System** *(SIH 2024 Project)*  
-  ➤ Designed a contactless charging prototype using embedded hardware
+- ⚡ **Wireless EV Charging System** *(SIH 2024)*  
+  ➤ Designed a smart, contactless energy transfer model
 
 ---
 
-### 💻 Skills
+### 💼 Experience & Trainings
 
-**Languages**  
+- 👨‍💻 React Developer Intern @ **DotComInfoway**
+- 🧠 Zoho Creator (Deluge) Training – *Young Creators Program*
+- 🤖 Sixth Sense Robotics – *Genesis EduTech, Mumbai*
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**:  
 `Java` `SQL` `HTML` `CSS`
 
-**Frameworks & Tools**  
-`Spring Boot` `MySQL` `Postman` `Git` `GitHub` `Verilog` `Matlab`
+**Frameworks & Tools**:  
+`Spring Boot` `MySQL` `Git` `GitHub` `Postman` `Verilog` `Matlab`
 
-**Other Skills**  
-`Problem Solving` `Teamwork` `Communication` `Analytical Thinking`
-
----
-
-### 📚 Experience & Workshops
-
-- 👨‍💻 **React Developer Intern** – *DotComInfoway, Madurai*  
-- 🛠️ **Zoho Creator - Deluge Training** – *Young Creators Program*  
-- 🤖 **Sixth Sense Robotics** – *Genesis EduTech, Mumbai*  
+**Soft Skills**:  
+`Teamwork` `Communication` `Problem Solving` `Analytical Thinking`
 
 ---
 
-### 🌐 Let's Connect
+### 📫 Contact Me
 
-📫 Email: [rajapandiyants@gmail.com](mailto:rajapandiyants@gmail.com)  
+📩 Email: [rajapandiyants@gmail.com](mailto:rajapandiyants@gmail.com)  
 🌐 Portfolio: [rajapandiyan.netlify.app](https://rajapandiyan.netlify.app)  
-🔗 LinkedIn: [Rajapandiyan T S](https://www.linkedin.com/in/rajapandiyan-t-s-121801267)  
+🔗 LinkedIn: [Rajapandiyan T S](https://linkedin.com/in/rajapandiyan-t-s-121801267)  
 🐙 GitHub: [RajapandiyanTS](https://github.com/RajapandiyanTS)
 
 ---
 
-> ⚡ *“Always learning, always building.”*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Motivational Quote">
+</p>
+
+---
+
+> ✨ *“Always learning, always building.”*
+
 
